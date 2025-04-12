@@ -2,10 +2,10 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/
+venue: "Griffith University, ICT"
+date: 2023-10-Now
+location: "Gold Coast, Australia"
 ---
 
 At Griffith, I work as a **Teaching Assistant**, contributing to the following courses:

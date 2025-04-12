@@ -8,7 +8,7 @@ date: 2025-02-28
 location: "Gold Coast, Australia"
 ---
 
-### [Ethical Hacking (3009ICT)](https://www.griffith.edu.au/study/courses/ethical-hacking-3009ICT)
+### [Ethical Hacking (3809ICT)]([https://www.griffith.edu.au/study/courses/ethical-hacking-3009ICT](https://www.griffith.edu.au/study/courses/ethical-hacking-3809ICT#trimester-1-brisbane-city-south-bank))
 Ethical Hacking provides students with practical cybersecurity knowledge from an attacker’s perspective. Core topics include:
 - **Penetration testing** and **vulnerability assessment**  
 - **Secure coding**, **threat modeling**, and **defensive strategies**  

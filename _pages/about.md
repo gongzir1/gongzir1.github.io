@@ -9,19 +9,14 @@ redirect_from:
 
 I’m Zirui Gong, a second-year PhD student in AI Security at **Griffith University**, working under the **TrustAGI Lab**. My research is centered on uncovering security and privacy vulnerabilities in **Federated Learning (FL)** systems, with the goal of improving the resilience and trustworthiness of distributed machine learning.
 
-My work has been published in top-tier venues including:
-
-- **IEEE Symposium on Security and Privacy (S&P) 2025**
-- **IEEE Transactions on Information Forensics and Security (TIFS)**
-
-I hold a First-Class Honours degree in Information Technology from **Deakin University**, where I developed a strong research foundation in secure AI systems and adversarial learning.
-
 
 Publications
 ======
-2025:
-2024:
-2023:
+- **Zirui Gong**, et al. _"Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning"_, in **IEEE Symposium on Security and Privacy 2025 (S&P)**.
+- **Zirui Gong**, et al. _"Agramplifier: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification"_, **IEEE Transactions on Information Forensics and Security (TIFS)**, vol. 19, 2023, pp. 1241–1250.
+- Li, Yuqi\*, **Zirui Gong\***, et al. _"Production Evaluation of Citrus Fruits Based on the YOLOv5 Compressed by Knowledge Distillation"_, in **International Conference on Computer Supported Cooperative Work in Design (CSCWD)**.
+
+
 
 Projects
 ======

@@ -45,6 +45,11 @@ I actively contribute to the academic community by:
 - Third Class Scholarship of Southwest University, 2019 and 2020  
 - Internet Excellence Award, Chongqing Municipal Level of National College Student Innovation and Entrepreneurship Competition, 2020  
 
+## Mentorship Experience
+
+- Guide and collaborate with a postgraduate student on launching fine-grained attacks in ranking-based Federated Learning, with the work submitted to IJICIA.  
+- Supervise and mentor graduate students on backdoor attacks in the Federated Learning domain.  
+
 ## Teaching
 
 At Griffith, I work as a **Teaching Assistant**, contributing to the following courses:

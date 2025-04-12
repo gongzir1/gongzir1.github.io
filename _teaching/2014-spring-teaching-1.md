@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Trustworthy AI"
 collection: teaching
 type: "Undergraduate/Postgraduate course"
-permalink: /teaching/teaching1
+permalink: /teaching/trustworthyai
 venue: "Griffith University, ICT"
-date: 2023-010-01
+date: 2023-10-01
 location: "Gold Coast, Australia"
 ---
 

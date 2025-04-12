@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Zirui Gong, a second-year PhD student in AI Security at **Griffith University**, working under the **TrustAGI Lab**. My research is centered on uncovering security and privacy vulnerabilities in **Federated Learning (FL)** systems, with the goal of improving the resilience and trustworthiness of distributed machine learning.
+I’m Zirui Gong, a PhD candidate in AI Security at **Griffith University**, working under the **TrustAGI Lab**. My research is centered on uncovering security and privacy vulnerabilities in **Federated Learning (FL)** systems, with the goal of improving the resilience and trustworthiness of distributed machine learning.
 
 
 Publications

@@ -8,13 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+At Griffith, I work as a **Teaching Assistant**, contributing to the following courses:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- **Trustworthy AI** – covering adversarial machine learning, explainability, and fairness.
+- **Ethical Hacking** – assisting with penetration testing, secure coding, and risk analysis.
+- **Programming Principles (Python)** – guiding students in algorithm design and debugging.

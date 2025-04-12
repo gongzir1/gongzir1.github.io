@@ -37,6 +37,14 @@ I actively contribute to the academic community by:
 - Presenting ongoing research within the **TrustAGI Lab**.
 - Mentoring postgraduate students on backdoor and fine-grained poisoning attacks in FL.
 
+## Awards & Scholarships
+
+- GU International Postgraduate Research Scholarship, 2024–2027  
+- GU Postgraduate Research Scholarship, 2024–2027  
+- STEM Scholarship of Deakin University, 2022 and 2023  
+- Third Class Scholarship of Southwest University, 2019 and 2020  
+- Internet Excellence Award, Chongqing Municipal Level of National College Student Innovation and Entrepreneurship Competition, 2020  
+
 ## Teaching
 
 At Griffith, I work as a **Teaching Assistant**, contributing to the following courses:

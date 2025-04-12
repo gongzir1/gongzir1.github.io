@@ -28,6 +28,23 @@ Projects
 - Privacy-Preserving Machine Learning
 - Adversarial Attacks & Defenses
 - Secure Distributed Systems
+  
+## Research Experience
+
+### PhD Researcher  
+**Griffith University**, Gold Coast, QLD  
+_Feb 2024 – Present_  
+- Investigated methods to improve security and privacy in Federated Learning, ensuring safer distributed machine learning.
+
+### Research Assistant  
+**Deakin University**, Melbourne, VIC  
+_Mar 2023 – Oct 2023_  
+- Focused on object detection in decentralized structures to enhance real-world detection performance in the meat industry.
+
+### Honours Researcher  
+**Deakin University**, Melbourne, VIC  
+_Jun 2022 – Jun 2023_  
+- Explored strategies to improve the robustness of Federated Learning systems against Byzantine threats and failures.
 
 ## Academic Activities
 

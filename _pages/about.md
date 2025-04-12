@@ -1,7 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I’m **Zirui Gong**, a PhD student in Computer Science at Griffith University, Australia. My research focuses on the intersection of **federated learning**, **machine learning security**, and **sparse subnetworks**, with a particular interest in analyzing **vulnerabilities in Lottery Ticket Hypothesis-based FL frameworks**.

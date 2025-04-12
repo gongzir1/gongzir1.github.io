@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Zirui Gong**, a PhD student in Computer Science at Griffith University, Australia. My research focuses on the intersection of **federated learning**, **machine learning security**, and **sparse subnetworks**, with a particular interest in analyzing **vulnerabilities in Lottery Ticket Hypothesis-based FL frameworks**.
+I’m Zirui Gong, a second-year PhD student in AI Security at **Griffith University**, working under the **TrustAGI Lab**. My research is centered on uncovering security and privacy vulnerabilities in **Federated Learning (FL)** systems, with the goal of improving the resilience and trustworthiness of distributed machine learning.
 
-I’ve served as a reviewer for several top-tier AI and security conferences including ICLR, CVPR, IJCAI, AAAI, AsiaCCS, and AISTATS.
+My work has been published in top-tier venues including:
 
-Outside of research, I enjoy working on open-source projects, exploring adversarial machine learning topics, and learning new languages — both human and programming ones.
+- **IEEE Symposium on Security and Privacy (S&P) 2025**
+- **IEEE Transactions on Information Forensics and Security (TIFS)**
+
+I hold a First-Class Honours degree in Information Technology from **Deakin University**, where I developed a strong research foundation in secure AI systems and adversarial learning.
 
 
 Publications
 ======
-
+2025:
+2024:
+2023:
 
 Projects
 ======

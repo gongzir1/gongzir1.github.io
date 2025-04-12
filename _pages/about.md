@@ -27,6 +27,33 @@ Projects
 ======
 
 
-Skills
-------
+## Research Interests
+
+- Federated Learning Security
+- Privacy-Preserving Machine Learning
+- Adversarial Attacks & Defenses
+- Secure Distributed Systems
+
+## Academic Activities
+
+I actively contribute to the academic community by:
+
+- Reviewing papers for top AI and security conferences (e.g., ICLR, CVPR, IJCAI, AAAI, AISTATS, AsiaCCS).
+- Presenting ongoing research within the **TrustAGI Lab**.
+- Mentoring postgraduate students on backdoor and fine-grained poisoning attacks in FL.
+
+## Teaching
+
+At Griffith, I work as a **Teaching Assistant**, contributing to the following courses:
+
+- **Trustworthy AI** – covering adversarial machine learning, explainability, and fairness.
+- **Ethical Hacking** – assisting with penetration testing, secure coding, and risk analysis.
+- **Programming Principles (Python)** – guiding students in algorithm design and debugging.
+
+## Contact
+
+- 📧 Email: [zirui.gong@griffithuni.edu.au](mailto:zirui.gong@griffithuni.edu.au)
+- 📍 Location: Gold Coast, QLD, Australia  
+- 🔗 [Google Scholar](https://scholar.google.com.au/citations?user=ze6m7AMAAAAJ&hl=en&oi=ao)
+
 

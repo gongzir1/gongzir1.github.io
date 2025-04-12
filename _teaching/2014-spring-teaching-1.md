@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate/Postgraduate course"
 permalink: /teaching
 venue: "Griffith University, ICT"
+date: 2024-2025
 location: "Gold Coast, Australia"
 ---
 

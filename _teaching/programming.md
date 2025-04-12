@@ -8,7 +8,7 @@ date: 2023-10-01
 location: "Gold Coast, Australia"
 ---
 
-### [Programming Principles (1801ICT)](https://www.griffith.edu.au/study/courses/programming-principles-1801ICT)
+### [Programming Principles (1801ICT)]([https://www.griffith.edu.au/study/courses/programming-principles-1801ICT](https://www.griffith.edu.au/study/courses/programming-principles-1811ICT#trimester-1-online))
 This foundational course introduces students to programming using **Python**. It covers:
 - Fundamental **programming constructs**, such as loops, functions, and conditionals  
 - **Data structures** (lists, dictionaries, tuples)  

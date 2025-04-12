@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Undergraduate/Postgraduate course"
-permalink: /teaching
+permalink: /teaching/
 venue: "Griffith University, ICT"
 date: 2024-01-01
 location: "Gold Coast, Australia"

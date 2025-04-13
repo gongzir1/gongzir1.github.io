@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ieeesp
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2025-10-01
+venue: 'IEEE Symposium on Security and Privacy (S&P)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

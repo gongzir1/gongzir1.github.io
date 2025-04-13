@@ -3,6 +3,7 @@ title: "Agramplifier: Defending Federated Learning Against Poisoning Attacks Thr
 collection: publications
 category: manuscripts
 permalink: /publication/tifs
+date: 2023-10-01
 venue: 'IEEE Transactions on Information Forensics and Security (TIFS)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

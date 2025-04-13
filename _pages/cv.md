@@ -46,7 +46,7 @@ _Jun 2022 – Jun 2023_
 
 I actively contribute to the academic community by:
 
-- Reviewing papers for top AI and security conferences (e.g., ICLR, CVPR, IJCAI, AAAI, AISTATS, AsiaCCS).
+- Assistant in reviewing papers for top AI and security conferences (e.g., ICLR, CVPR, IJCAI, AAAI, AISTATS, AsiaCCS).
 - Presenting ongoing research within the **TrustAGI Lab**.
 - Mentoring postgraduate students on backdoor and fine-grained poisoning attacks in FL.
 

@@ -1,7 +1,7 @@
 ---
 title: "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/ieeesp
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-01

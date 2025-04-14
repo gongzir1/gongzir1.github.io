@@ -5,8 +5,6 @@ category: manuscripts
 permalink: /publication/tifs
 date: 2023-10-01
 venue: 'IEEE Transactions on Information Forensics and Security (TIFS)'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Gong, Zirui, et al. "Agramplifier: defending federated learning against poisoning attacks through local update amplification." IEEE Transactions on Information Forensics and Security 19 (2023): 1241-1250.'
 ---
 

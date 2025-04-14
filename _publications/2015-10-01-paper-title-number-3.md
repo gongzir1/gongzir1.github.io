@@ -2,7 +2,7 @@
 title: "	
 Production evaluation of citrus fruits based on the yolov5 compressed by knowledge distillation"
 collection: publications
-category: Conference
+category: conferences
 permalink: /publication/cscwd
 date: 2023-10-01
 venue: 'CSCWD'

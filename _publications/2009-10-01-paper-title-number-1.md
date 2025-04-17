@@ -11,7 +11,7 @@ Federated Ranking Learning (FRL) is a state-of-the-art FL framework that stands 
 However, our analysis reveals that FRL is not inherently robust, as certain edges are particularly vulnerable to poisoning attacks. Through a theoretical investigation, we prove the existence of these vulnerable edges and establish a lower bound and an upper bound for identifying them in each layer. Based on this finding, we introduce a novel local model poisoning attack against FRL, namely the Vulnerable Edge Manipulation (VEM) attack. The VEM attack focuses on identifying and perturbing the most vulnerable edges in each layer and leveraging an optimization-based approach to maximize the attack's impact. Through extensive experiments on benchmark datasets, we demonstrate that our attack achieves an overall 53.23% attack impact and is 3.7x more impactful than existing methods. Our findings highlight significant vulnerabilities in ranking-based FL systems and underline the urgency for the development of new robust FL frameworks.
 
 <a href="https://gongzir1.github.io/vem.github.io/" target="_blank">
-  <button style="padding: 8px 16px; font-size: 16px; background-color:rgb(191, 196, 199); color: white; border: none; border-radius: 5px; cursor: pointer;">
+  <button style="padding: 8px 16px; font-size: 16px; background-color:rgb(64, 65, 66); color: white; border: none; border-radius: 5px; cursor: pointer;">
     Learn More
   </button>
 </a>

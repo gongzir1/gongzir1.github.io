@@ -8,7 +8,7 @@ tags:
   - IEEE S&P
   - Trustworthy AI
 ---
-Honored to have presented at the IEEE Symposium on Security and Privacy today!🎉🎉
+Honored to have presented at the IEEE Symposium on Security and Privacy today! 🎉🎉
 
 What an incredible experience — from engaging conversations and thoughtful feedback to connecting with some of the most inspiring minds in the field. Truly a highlight of my journey so far. Grateful for the opportunity and looking forward to building on the insights shared today. 🥳🥳
 

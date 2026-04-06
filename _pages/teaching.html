@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<ul>
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.type }}, <i>{{ post.venue }}</i> ({{ post.date | date: "%Y" }})
+  </li>
 {% endfor %}
+</ul>

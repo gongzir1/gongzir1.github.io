@@ -10,7 +10,7 @@ author_profile: true
 <ul>
 {% for post in site.teaching reversed %}
   <li>
-    <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.type }}, <i>{{ post.venue }}</i> ({{ post.date | date: "%Y" }})
+    <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.type }}, <i>{{ post.venue }}</i>
   </li>
 {% endfor %}
 </ul>

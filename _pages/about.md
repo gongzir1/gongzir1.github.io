@@ -16,7 +16,9 @@ Publications
 - **Zirui Gong**, et al. _"Agramplifier: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification"_, **IEEE Transactions on Information Forensics and Security (TIFS)**, vol. 19, 2023, pp. 1241–1250.
 - Li, Yuqi\*, **Zirui Gong\***, et al. _"Production Evaluation of Citrus Fruits Based on the YOLOv5 Compressed by Knowledge Distillation"_, in **International Conference on Computer Supported Cooperative Work in Design (CSCWD)**.
 
-
+Teaching
+======
+At Griffith University, I work as a **Teaching Assistant** for courses such as **Trustworthy AI**, **Deep Learning**, **Ethical Hacking**, **Application Systems**, and **Programming Principles**. Additionally, I contribute as a **Course Content Designer** for **Security Operations Centres & AI**, helping students build both theoretical and practical expertise.
 
 ## Research Interests
 

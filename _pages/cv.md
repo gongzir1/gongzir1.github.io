@@ -69,6 +69,9 @@ I actively contribute to the academic community by:
 At Griffith, I work as a **Teaching Assistant**, contributing to the following courses:
 
 - **Trustworthy AI** – covering adversarial machine learning, explainability, and fairness.
+- **Deep Learning** – bridging students' theory and hands-on knowledge to build and train deep learning models.
 - **Ethical Hacking** – assisting with penetration testing, secure coding, and risk analysis.
+- **Application Systems** – helping students design complete application systems.
 - **Programming Principles (Python)** – guiding students in algorithm design and debugging.
+- **Security Operations Centres & AI** – contributing to curriculum design for AI-driven threat detection in SOCs.
 

@@ -22,7 +22,11 @@ author_profile: true
 
 ## Reviewing
 
-- **Journal Reviewer:** IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Cybernetics, and Neurocomputing
+- **Journal Reviewer:**
+  - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - IEEE Transactions on Cybernetics
+  - Neurocomputing
 - **Conference Reviewer and External Reviewer:**
   - ACM Conference on Computer and Communications Security (CCS) - ICORE 2026: **A\***
   - Conference on Neural Information Processing Systems (NeurIPS) - ICORE 2026: **A\***
@@ -32,5 +36,3 @@ author_profile: true
   - AAAI Conference on Artificial Intelligence (AAAI) - ICORE 2026: **A\***
   - ACM Asia Conference on Computer and Communications Security (AsiaCCS) - ICORE 2026: **A**
   - International Conference on Artificial Intelligence and Statistics (AISTATS) - ICORE 2026: **A**
-
-_ICORE ranks conferences rather than journals; journal venues are therefore listed without an ICORE rank._

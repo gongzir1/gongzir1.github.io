@@ -7,10 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Teaching</h2>
+
 <ul>
 {% for post in site.teaching reversed %}
+  {% unless post.type == "Course Design & Development" %}
   <li>
     <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.type }}, <i>{{ post.venue }}</i>
   </li>
+  {% endunless %}
+{% endfor %}
+</ul>
+
+<h2>Course Design</h2>
+
+<ul>
+{% for post in site.teaching reversed %}
+  {% if post.type == "Course Design & Development" %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.type }}, <i>{{ post.venue }}</i>
+  </li>
+  {% endif %}
 {% endfor %}
 </ul>

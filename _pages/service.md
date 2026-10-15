@@ -20,6 +20,12 @@ author_profile: true
 
 - **Web Chair**, IEEE Symposium Series on Computational Intelligence (SSCI), 2027
 
+## Talks & Presentations
+
+- **Conference Presentation**, IEEE Symposium on Security and Privacy (S&P), 2025 - presented first-authored research on the robustness of ranking-based federated learning
+- **Poster Presentation**, International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026
+- **Invited Talk**, CSIRO Privacy Technology Group Seminar - presented our IEEE S&P 2026 work in a seminar hosted by Professor Ming Ding
+
 ## Reviewing
 
 - **Journal Reviewer:**

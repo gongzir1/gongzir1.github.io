@@ -22,4 +22,15 @@ author_profile: true
 
 ## Reviewing
 
-- Reviewer and external reviewer for **ACM CCS**, **NeurIPS**, **ICLR**, **CVPR**, **IJCAI**, **AAAI**, **AsiaCCS**, and **AISTATS**
+- **Journal Reviewer:** IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Cybernetics, and Neurocomputing
+- **Conference Reviewer and External Reviewer:**
+  - ACM Conference on Computer and Communications Security (CCS) - ICORE 2026: **A\***
+  - Conference on Neural Information Processing Systems (NeurIPS) - ICORE 2026: **A\***
+  - International Conference on Learning Representations (ICLR) - ICORE 2026: **A\***
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) - ICORE 2026: **A\***
+  - International Joint Conference on Artificial Intelligence (IJCAI) - ICORE 2026: **A\***
+  - AAAI Conference on Artificial Intelligence (AAAI) - ICORE 2026: **A\***
+  - ACM Asia Conference on Computer and Communications Security (AsiaCCS) - ICORE 2026: **A**
+  - International Conference on Artificial Intelligence and Statistics (AISTATS) - ICORE 2026: **A**
+
+_ICORE ranks conferences rather than journals; journal venues are therefore listed without an ICORE rank._

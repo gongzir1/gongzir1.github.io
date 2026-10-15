@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zirui-gong-profile.jpg"
+  avatar           : "zirui-gong-profile-square.png"
   name             : "Zirui Gong"
   pronouns         : "she/her"  
   bio              : "PhD Candidate"

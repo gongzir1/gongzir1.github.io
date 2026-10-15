@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m Zirui Gong, a PhD candidate at Griffith University, working in <a href="https://trust-agi.github.io/">TrustAGI Lab</a>, under the supervision of <a href="https://leozhangcs.github.io/">Dr. Leo Zhang</a>, <a href="https://shiruipan.github.io/">Prof. Shirui Pan</a>, and <a href="https://profiles.uts.edu.au/Yanjun.Zhang">Dr. Yanjun Zhang</a>. My research is centered on uncovering security and privacy vulnerabilities in Federated Learning (FL) systems, with the goal of improving the resilience and trustworthiness of distributed machine learning. 
+I’m Zirui Gong, a PhD candidate in Computer Science at Griffith University and a member of the <a href="https://trust-agi.github.io/">TrustAGI Lab</a>, supervised by <a href="https://leozhangcs.github.io/">Dr. Leo Zhang</a>, <a href="https://shiruipan.github.io/">Prof. Shirui Pan</a>, and <a href="https://profiles.uts.edu.au/Yanjun.Zhang">Dr. Yanjun Zhang</a>. My research focuses on the security and privacy of machine-learning systems, including federated-learning security, privacy attacks, differential privacy, and privacy and safety for large language models.
+
+I am also currently a Research Assistant at The Hong Kong Polytechnic University, working with Qingqing Ye on differential privacy, privacy attacks, and privacy-preserving techniques for collaborative LLM inference systems.
 
 Publications
 ======

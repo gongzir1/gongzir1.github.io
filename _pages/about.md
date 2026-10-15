@@ -13,11 +13,11 @@ I am also currently a Research Assistant at The Hong Kong Polytechnic University
 
 Publications
 ======
-- **Zirui Gong**, et al. _"ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery"_, in **IEEE Symposium on Security and Privacy 2026 (S&P)**.
-- Chen, Z., **Zirui Gong**, et al. _"Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning"_, in **Proceedings of the Web Conference 2026 (WWW 2026)**.
-- **Zirui Gong**, et al. _"Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning"_, in **IEEE Symposium on Security and Privacy 2025 (S&P)**.
-- **Zirui Gong**, et al. _"Agramplifier: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification"_, **IEEE Transactions on Information Forensics and Security (TIFS)**, vol. 19, 2023, pp. 1241–1250.
-- Li, Yuqi\*, **Zirui Gong\***, et al. _"Production Evaluation of Citrus Fruits Based on the YOLOv5 Compressed by Knowledge Distillation"_, in **International Conference on Computer Supported Cooperative Work in Design (CSCWD)**.
+- Zirui Gong, et al. _"ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery"_, in IEEE Symposium on Security and Privacy 2026 (S&P).
+- Chen, Z., Zirui Gong, et al. _"Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning"_, in Proceedings of the Web Conference 2026 (WWW 2026).
+- Zirui Gong, et al. _"Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning"_, in IEEE Symposium on Security and Privacy 2025 (S&P).
+- Zirui Gong, et al. _"Agramplifier: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification"_, IEEE Transactions on Information Forensics and Security (TIFS), vol. 19, 2023, pp. 1241–1250.
+- Li, Yuqi\*, Zirui Gong\*, et al. _"Production Evaluation of Citrus Fruits Based on the YOLOv5 Compressed by Knowledge Distillation"_, in International Conference on Computer Supported Cooperative Work in Design (CSCWD).
 
 Teaching
 ======
@@ -25,10 +25,12 @@ At Griffith University, I work as a **Teaching Assistant** for courses such as *
 
 ## Research Interests
 
-- Federated Learning Security
-- Privacy-Preserving Machine Learning
-- Adversarial Attacks & Defenses
-- Secure Distributed Systems
+- Machine-Learning Security and Privacy
+- Federated-Learning Security
+- Large-Language-Model Privacy and Safety
+- Differential Privacy
+- Privacy and Gradient-Inversion Attacks
+- Adversarial and Trustworthy AI
   
 
 

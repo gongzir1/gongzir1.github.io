@@ -8,11 +8,14 @@ date: 2024-03-01
 location: "Gold Coast, Australia"
 ---
 
-### [Security Operations Centres & AI]
+### Security Operations Centres & AI
 
-This course focuses on the integration of Artificial Intelligence within modern Security Operations Centres (SOCs). As a Course Content Designer, I participated in the development of the curriculum, focusing on:
-- **AI-driven Threat Detection:** Leveraging machine learning to identify complex cyber threats and anomalies.
-- **Log Analysis & Pattern Recognition:** Developing teaching materials for automated log parsing and behavioral analysis using AI.
-- **Strategic Integration:** Designing training modules that bridge traditional cybersecurity practices with emerging AI technologies.
+This course focuses on the integration of artificial intelligence into modern Security Operations Centres (SOCs). As a Course Content Designer, I co-designed the course's AI-security component and helped translate current cybersecurity and AI concepts into accessible, practice-oriented learning materials.
 
-In my role, I help develop the technical content for this emerging course to ensure students are equipped with the most up-to-date and practical knowledge in the field.
+My contributions include:
+
+- Developing online learning content for the AI-security component
+- Designing workshop materials and hands-on practical activities
+- Preparing assessment specifications aligned with the course learning outcomes
+- Developing marking rubrics to support consistent and constructive assessment
+- Connecting traditional SOC practices with AI-supported security analysis and threat detection
